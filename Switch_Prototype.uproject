@@ -3,16 +3,6 @@
 	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "Switch_Prototype",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"GameplayAbilities"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
