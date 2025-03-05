@@ -7,5 +7,7 @@ E to interact
 wasd movement
 q e m1 m2 for abilities
 
+Built for UE 5.4
+
 gif of the game below
 https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFmYnZ3Zmk4enA2NDdhOGcyODV3MWQzZDZ1MGtvcmY4Y204OXlnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/01N2KDeh6s0bFzxcsI/giphy.gif
